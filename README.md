@@ -1,3 +1,3 @@
 # Bem vindo ao curso!
 
-<p> teste </p>
+<p> Arrumando a descrição <p>
