@@ -77,6 +77,12 @@ git fetch
 - [x] Aprender a utilizar recursos que eu não conhecia do MarkDown
 - [x] Entre diversas outras coisas :)
 
+## Status sobre os conhecimentos
+
+Git | GitHub | MarkDown
+----| -------|---------
+Não sabia nada, agora sei como utilizar ele de maneira eficiênte e rápida, aprendendo com alguns erros e reforçando alguns conhecimentos. | Já sabia como utilizar, mas existiam diversas seções dentro da plataforma, nas quais eu não fazia a menor ideia de como funcionavam. Após o curso, aprendi a utilizar de uma forma melhor. | Tinha um conhecimento básico, agora passei a entender como utilizar os principais conceitos na criação de README's.
+
 ## 
 
 
