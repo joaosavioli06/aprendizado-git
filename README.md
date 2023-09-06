@@ -1,6 +1,6 @@
 ![Logo do Git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)  
 
-[Bem-vindo](#Curso-Git-e-GitHub-Avançado) | [Seções do Curso](seções-do-curso) | [Onde fiz o curso?](onde-fiz-o-curso) | [Vantagens do Curso](vantagens-do-curso) [Comandos](comandos)
+[Bem-vindo](#Curso-Git-e-GitHub-Avançado) | [Seções do Curso](seções-do-curso) | [Onde fiz o curso?](onde-fiz-o-curso) | [Vantagens do Curso](vantagens-do-curso) | [Comandos](comandos)
 
 # Curso Git e GitHub Avançado
 Realizei a compra deste curso no mês de julho de 2023, pois percebi que precisava melhorar minhas habilidades principalmente com o Git e GitHub. Como um módulo extra do curso, eu também aprendi a utilizar o MarkDown de uma forma mais avançada. 
@@ -67,7 +67,18 @@ git merge
 git fetch
 ```
 
+## Algumas coisas que consegui fazer depois do curso
+- [x] Aprender de uma vez por todas como utilizar o Git
+- [x] Utilizar os comandos essenciais da forma correta
+- [x] Clonar repositórios sem dificuldade
+- [x] Aprender como funcionam as branches, e a como as utilizar e dar merge
+- [x] Entender como algumas seções do GitHub funcionam
+- [x] Como utilizar o GitHub de uma forma melhor
+- [x] Aprender a utilizar recursos que eu não conhecia do MarkDown
+- [x] Entre diversas outras coisas :)
+
 ## 
+
 
 
 
