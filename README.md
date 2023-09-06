@@ -41,7 +41,33 @@ Eu realizei o curso na plataforma da _Udemy_. Dentro da Udemy, existem diversos 
     2. Praticando bastante e seguindo os vídeos, é possível obter uma proficiência com os comandos essenciais, e posteriormente os avançados. 
 
 ## Comandos 
+É possível aprender diversos comandos durante o curso. No entanto, no meu uso pessoal, eu utilizo com umna frequência maior, os seguintes comandos: 
 
+```git
+git init
+git clone
+git status
+git add
+git commit
+git push
+git pull
+git log
+```
+
+> Lembrete: Eu também utilizo outros comandos, porém, utilizo os comandos acima com uma frequência bem maior do que outros. Todos os comandos são **importantes**, mas acabo utilizando menos alguns comandos como:
+
+```git
+git branch
+git checkout
+git tag
+git touch
+git mkdir
+git stash
+git merge
+git fetch
+```
+
+## 
 
 
 
