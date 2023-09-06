@@ -29,7 +29,19 @@ Eu realizei o curso na plataforma da _Udemy_. Dentro da Udemy, existem diversos 
 
 [Link do curso](https://www.udemy.com/share/104MYs3@eCwZcBLWt94j8W-LMlZypuE08xoF-Sd3qnmDUo0gYYxdWeci9aBjhUzLAWCD_FoWpg==/)
 
-## 
+## Vantagens do Curso
+* Simples de entender
+    1. O instrutor do curso (Matheus Fraga) utiliza uma linguagem muito amigável para iniciantes.
+    2. Todos os vídeos são explicados de maneira passo a passo, fazendo com que você não se perca durante as explicações.
+* Direto ao assunto
+    1. Durante as aulas, você consegue perceber que o material do curso é direcionado sem enrolação.
+    2. Os vídeos são curtos e sucintos.
+* Mão na massa
+    1. Durante as aulas, você consegue praticar bastante o Git, desde os primeiros passos, até coisas mais avançadas.
+    2. Praticando bastante e seguindo os vídeos, é possível obter uma proficiência com os comandos essenciais, e posteriormente os avançados. 
+
+## Comandos 
+
 
 
 
