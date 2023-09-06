@@ -1,6 +1,6 @@
 ![Logo do Git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)  
 
-[Bem-vindo](#Curso-Git-e-GitHub-Avançado) | [Seções do Curso](Seções-do-curso) | [Onde fiz o curso?](onde-fiz-o-curso)
+[Bem-vindo](#Curso-Git-e-GitHub-Avançado) | [Seções do Curso](Seções-do-Curso) | [Onde fiz o curso?](Onde-fiz-o-curso?)
 
 # Curso Git e GitHub Avançado
 Realizei a compra deste curso no mês de julho de 2023, pois percebi que precisava melhorar minhas habilidades principalmente com o Git e GitHub. Como um módulo extra do curso, eu também aprendi a utilizar o MarkDown de uma forma mais avançada. 
