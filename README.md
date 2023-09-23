@@ -1,7 +1,7 @@
 ![Logo do Git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)  
 
 [Bem-vindo](#Curso-Git-e-GitHub-Avançado) | 
-[Seções do Curso](Seções-do-Curso) | 
+[Seções do Curso](#Seções-do-Curso) | 
 [Onde fiz o curso?](onde-fiz-o-curso) | [Vantagens do Curso](vantagens-do-curso) | [Comandos](comandos) | [Coisas que aprendi](algumas-coisas-que-consegui-fazer-depois-do-curso) | [Status](status-sobre-os-conhecimentos)
 
 # Curso Git e GitHub Avançado
