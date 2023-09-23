@@ -54,16 +54,16 @@ git commit
 git push
 git pull
 git log
+git touch
+git mkdir
 ```
 
-> Lembrete: Eu também utilizo outros comandos, porém, utilizo os comandos acima com uma frequência bem maior do que outros. Todos os comandos são **importantes**, mas acabo utilizando menos alguns comandos como:
+> Lembrete: Comandos que utilizo com uma frequência menor, quando trabalho em projetos mais avançados ou em grupo:
 
 ```git
 git branch
 git checkout
 git tag
-git touch
-git mkdir
 git stash
 git merge
 git fetch
