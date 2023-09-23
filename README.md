@@ -7,7 +7,7 @@
 # Curso Git e GitHub Avançado
 Realizei a compra deste curso no mês de julho de 2023, pois percebi que precisava melhorar minhas habilidades principalmente com o Git e GitHub. Como um módulo extra do curso, eu também aprendi a utilizar o MarkDown de uma forma mais avançada. 
 
-## Seções do Curso
+# Seções do Curso
 
 1. Primeiros Passos
     * 5 aulas (30 min)
